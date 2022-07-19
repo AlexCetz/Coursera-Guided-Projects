@@ -1,8 +1,6 @@
-# Learning-Python-Books
+# Guided Projects
 
-General Public Repository for my personal learning using different books to improve my knowledge and skills in python from different perspectives. 
+In this repository you will find different guided projects that are aviable for Students in the coursera students program.
 
-Here you will find the explanations on my own words as well as my answers.
-
-## Books
-* (Head first series) Paul Barry - Head first Python-O'Reilly Media, Inc. (2017)
+Guided Projects:
+* Overview of Data Visualization
